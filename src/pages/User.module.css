@@ -1,0 +1,13 @@
+.user {
+  background: #1d976c; /* fallback for old browsers */
+  background: linear-gradient(to right, #78855f, #415124); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 100px;
+  box-sizing: border-box;
+  height: 100vh;
+}
+.user .box {
+  width: 80%;
+  height: 500px;
+  background: #ddd;
+  margin: 0 auto;
+}/*# sourceMappingURL=User.module.css.map */

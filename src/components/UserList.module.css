@@ -1,0 +1,16 @@
+.card {
+  padding: 20px 30px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: rgba(61, 81, 36, 0.25) 0px 50px 100px -20px, rgba(34, 46, 20, 0.3) 0px 30px 60px -30px, rgba(13, 17, 7, 0.35) 0px -2px 6px 0px inset;
+  margin: 10px 50px;
+  transition: 0.5s;
+}
+.card:hover {
+  transform: scale(1.08);
+}
+.card .card_body a {
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+}/*# sourceMappingURL=UserList.module.css.map */
