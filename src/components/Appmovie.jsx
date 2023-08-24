@@ -7,7 +7,9 @@ const Appmovie = ({item}) => {
   return (
     <>
         <div key={item.id} className={styles.movieInfo}>
-        <Link to={{ pathname: `/${item.id}`, state: { itemData: item.title } }}><img src={IMG_BASE_URL + item.poster_path} alt="poster" className={styles.movieImg}/></Link>
+        {/* <Link to={{ pathname: `/${item.id}`, state: { itemData: item.title } }}>
+          </Link> */}
+          <img src={IMG_BASE_URL + item.poster_path} alt="poster" className={styles.movieImg}/>
         <div className={styles.movieText}>
           <h4>title: {item.title}</h4>
           <h4>release_date: {item.release_date}</h4>
