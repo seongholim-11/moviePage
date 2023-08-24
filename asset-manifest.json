@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/The_Human_Class/static/css/main.c47687de.css",
-    "main.js": "/The_Human_Class/static/js/main.46c524a3.js",
-    "index.html": "/The_Human_Class/index.html",
-    "main.c47687de.css.map": "/The_Human_Class/static/css/main.c47687de.css.map",
-    "main.46c524a3.js.map": "/The_Human_Class/static/js/main.46c524a3.js.map"
+    "main.css": "/movie_page/static/css/main.c47687de.css",
+    "main.js": "/movie_page/static/js/main.7fa47037.js",
+    "index.html": "/movie_page/index.html",
+    "main.c47687de.css.map": "/movie_page/static/css/main.c47687de.css.map",
+    "main.7fa47037.js.map": "/movie_page/static/js/main.7fa47037.js.map"
   },
   "entrypoints": [
     "static/css/main.c47687de.css",
-    "static/js/main.46c524a3.js"
+    "static/js/main.7fa47037.js"
   ]
 }
